@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### ABOUT ME  
+I am <m>vignesh</m> , an eager cs student currently studying BE first year CSE(AIML) in chennai institute of technology.
+### MY ROLE
+I use github to learn how to collaborate with other programmers.I am looking for people to collaborate on a project.
+
 <!--
 **vignesh-E-git/vignesh-E-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
