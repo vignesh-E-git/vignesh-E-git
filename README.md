@@ -4,7 +4,7 @@
 I am <m>vignesh</m> , an eager cs student currently studying BE first year CSE(AIML) in chennai institute of technology.
 ### MY ROLE
 I use github to learn how to collaborate with other programmers.I am looking for people to collaborate on a project.
-### social media
+### SOCIAL MEDIA
 - [Linkedin](https://www.linkedin.com/in/vicky-e)
 - [Leetcode](https://leetcode.com/u/WamG2Ntf0x/)
 
