@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### ABOUT ME  
-I am <m>vignesh</m> , an eager cs student currently studying BE first year CSE(AIML) in chennai institute of technology.
+I am <m>Vignesh</m> , an eager cs student currently studying BE first year CSE(AIML) in chennai institute of technology.
 ### MY ROLE
 I use github to learn how to collaborate with other programmers.I am looking for people to collaborate on a project.
 ### SOCIAL MEDIA
